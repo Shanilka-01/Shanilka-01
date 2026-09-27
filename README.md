@@ -1,6 +1,7 @@
 ![Ayubowan Banner](./ayubowan-github-banner.svg) 
 <!-- My Typing Effect code -->
-<p align="center">
+
+<!-- My Profile Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Shanilka+Induwara+Disanayaka;A+Passionate+Full+Stack+Developer;Always+Learning+New+Tech;Think+twice+Code+once....." alt="Typing SVG" />
 </p>
 
@@ -9,6 +10,31 @@
   <img src="https://komarev.com/ghpvc/?username=Shanilka-01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+
+<!--My Personal Details -->
+### 🌱 I'm currently learning **Java, C, Python**
+### 💬 Ask me about **C, Java**
+### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shanilka-disanayaka))
+
+## Connect with me:
+<p align="left">
+<a href="(https://www.linkedin.com/in/shanilka-disanayaka)N" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+<!--<a href="https://facebook.com/YOUR-FACEBOOK" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a> -->
+<a href="(https://www.instagram.com/__i.m_sha.indu__?stkn=bWptNGU2djhhMndm)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+</p>
+
+## Languages and Tools:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,java,js,mysql,php,python,html,css,git" />
+</p>
+
+## GitHub Stats:
+<p align="left">
+<img src="https://streak-stats.demolab.com/?user=Shanilka-01&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+
+  
 <!-- # Profile Skin: "GitSkins Curation" -->
 
 <p align="center">
