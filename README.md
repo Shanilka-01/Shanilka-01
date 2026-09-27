@@ -1,8 +1,14 @@
+<!-- My Typing Effect code -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Shanilka;A+Passionate+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Shanilka+Induwara+Disanayaka;A+Passionate+Full+Stack+Developer;Always+Learning+New+Tech;Think+twice+Code+once....." alt="Typing SVG" />
 </p>
 
-# Profile Skin: "GitSkins Curation"
+<!-- My Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shanilka-01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<!-- # Profile Skin: "GitSkins Curation" -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shanilka-01/Shanilka-01/main/media/profile_snapshot.png" alt="My Profile Scan" width="300px"/>
@@ -20,9 +26,9 @@
 | **Most Active Lang**| Python       | The copper-themed language         |
 
 ---
-## 🐍 Contribution Snake Animation
+ ## 🐍 Contribution Snake Animation
 
-<!-- Snake Animation code එක මෙතැනට ඇතුළත් කරන්න -->
+ <!--Snake Animation code -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shanilka-01/Shanilka-01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
