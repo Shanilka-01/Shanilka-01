@@ -14,7 +14,7 @@
 <!--My Personal Details -->
 ### 🌱 I'm currently learning **Java, C, Python**
 ### 💬 Ask me about **C, Java**
-### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shanilka-disanayaka))
+### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shanilka-disanayaka)
 
 ## Connect with me:
 <p align="left">
