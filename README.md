@@ -1,3 +1,4 @@
+![Shanilka Galaxy Banner](./shanilka-galaxy-banner.svg)
 <!-- My Typing Effect code -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Shanilka+Induwara+Disanayaka;A+Passionate+Full+Stack+Developer;Always+Learning+New+Tech;Think+twice+Code+once....." alt="Typing SVG" />
