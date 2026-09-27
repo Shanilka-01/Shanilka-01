@@ -16,6 +16,12 @@
 | **Most Active Lang**| Python       | The copper-themed language         |
 
 ---
+## 🐍 Contribution Snake Animation
+
+<!-- Snake Animation code එක මෙතැනට ඇතුළත් කරන්න -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shanilka-01/Shanilka-01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 ## 🚀 Key Achievements
 
